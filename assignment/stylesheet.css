@@ -6,5 +6,12 @@ header {
 
 main {
     background-color: lightgray;
-    padding: 20px;
+    padding: 1em;
+}
+body {
+    background-image: url('record.png');
+    background-size: cover;
+    margin: 0%;
+    background-repeat:repeat;
+    background-size: 200px 200px;
 }

@@ -3,3 +3,8 @@ header {
     color: antiquewhite;
     text-align: center;
 }
+
+main {
+    background-color: lightgray;
+    padding: 20px;
+}
